@@ -1,0 +1,10 @@
+C:\Users\User\Documents\Visual Studio 2019\Pen-Testing\Pen-Testing\bin\Debug\Pen-Testing.exe.config
+C:\Users\User\Documents\Visual Studio 2019\Pen-Testing\Pen-Testing\bin\Debug\Pen-Testing.exe
+C:\Users\User\Documents\Visual Studio 2019\Pen-Testing\Pen-Testing\bin\Debug\Pen-Testing.pdb
+C:\Users\User\Documents\Visual Studio 2019\Pen-Testing\Pen-Testing\obj\Debug\Pen-Testing.csprojAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2019\Pen-Testing\Pen-Testing\obj\Debug\Pen_Testing.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2019\Pen-Testing\Pen-Testing\obj\Debug\Pen-Testing.csproj.GenerateResource.cache
+C:\Users\User\Documents\Visual Studio 2019\Pen-Testing\Pen-Testing\obj\Debug\Pen-Testing.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2019\Pen-Testing\Pen-Testing\obj\Debug\Pen-Testing.exe
+C:\Users\User\Documents\Visual Studio 2019\Pen-Testing\Pen-Testing\obj\Debug\Pen-Testing.pdb
+C:\Users\User\Documents\Visual Studio 2019\Pen-Testing\Pen-Testing\obj\Debug\Pen_Testing.FormDrawBoard.resources
